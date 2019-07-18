@@ -1,5 +1,5 @@
 # JAModule
-##UIScrollView的一个分类->多组件->性能测试。
+##UIScrollView的一个分类
 
 ##*UC下拉
 ![UC下拉刷新.gif](http://upload-images.jianshu.io/upload_images/2556623-175385259aec6ee3.gif?imageMogr2/auto-orient/strip)
